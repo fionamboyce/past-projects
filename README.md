@@ -3,7 +3,7 @@ A collection of scripts, reports and CAD files from previous projects.
 
 ## automated-rover
 
-Really fun project I worked on with a friend to create an autonymous 'bomb disposal' rover to enter a competition. The rover would locate an infra-red source, read some information off an RFID chip and return back to base, displaying the information on an LED display. Used a PIC microcontroller and Embedded-C.
+A really fun project I worked on with a friend to create an autonymous 'bomb disposal' rover to enter a competition. The rover would locate an infra-red source, read some information off an RFID chip and return back to base, displaying the information on an LED display. Used a PIC microcontroller and Embedded-C.
 
 FYI... we won. 
 
